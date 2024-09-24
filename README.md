@@ -23,8 +23,10 @@ For more details please click on my LinkedIn profile.
     <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat"></a>
   </div>
   <div>
-    <a href="https://mlflow.org/"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat"></a>
     <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat"></a>
+    <a href="https://mlflow.org/"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat"></a>
+    <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
+    
   </div>
 </div>
 
