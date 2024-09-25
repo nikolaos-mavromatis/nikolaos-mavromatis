@@ -5,17 +5,24 @@ For more details please click on my LinkedIn profile.
   <a href="https://www.linkedin.com/in/nckmavromatis/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
 </div>
 
+<!--
+roadmaps.sh progress
+
 Also, follow my progress
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66f2dc03c45e253cb013b4bd?variant=dark&roadmaps=ai-data-scientist" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66f2dc03c45e253cb013b4bd?variant=light&roadmaps=ai-data-scientist%2Cmlops" alt="roadmap.sh"/></a>
+-->
 
 ## Tech Stack
 <div>
   <div class="generic">
-    <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat"></a>
     <a href="https://jira.com/"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat"></a>
     <a href="https://cookiecutter-data-science.drivendata.org/"><img alt="Cookiecutter" src="https://img.shields.io/badge/Cookiecutter-D4AA00?logo=cookiecutter&logoColor=fff&style=flat"></a>
+  </div>
+  <div class="programming">
+    <a href="https://python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+    <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat" alt="R Badge"></a>
   </div>
   <div class="data=wrangling">
     <a href="https://pandas.pydata.org/docs/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat"></a>
@@ -32,7 +39,7 @@ Also, follow my progress
     <a href="https://getdbt.com/"><img  alt="dbt Badge" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=flat"></a>
     <a href="https://mlflow.org/"><img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat"></a>
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
-    
+    <a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat" alt="Pytest Badge"></a>
   </div>
 </div>
 
