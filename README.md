@@ -5,6 +5,9 @@ For more details please click on my LinkedIn profile.
   <a href="https://www.linkedin.com/in/nckmavromatis/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
 </div>
 
+Also, follow my progress
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66f2dc03c45e253cb013b4bd?variant=dark&roadmaps=ai-data-scientist" alt="roadmap.sh"/></a>
+
 ## Tech Stack
 <div>
   <div class="generic">
