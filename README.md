@@ -16,7 +16,7 @@ For more details please click on my LinkedIn profile.
   <div class="data=wrangling">
     <a href="https://pandas.pydata.org/docs/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat"></a>
     <a href="https://docs.pola.rs/"><img alt="Polars" src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=flat"></a>
-    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat"></a>
+    <a href="https://numpy.org/doc/stable/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat"></a>
   </div>
   <div class="visualization">
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat"></a>
