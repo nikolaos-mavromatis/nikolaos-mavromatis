@@ -14,7 +14,7 @@ For more details please click on my LinkedIn profile.
     <a href="https://cookiecutter-data-science.drivendata.org/"><img alt="Cookiecutter" src="https://img.shields.io/badge/Cookiecutter-D4AA00?logo=cookiecutter&logoColor=fff&style=flat"></a>
   </div>
   <div class="data=wrangling">
-    <a href="https://pandas.org/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat"></a>
+    <a href="https://pandas.pydata.org/docs/"><img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat"></a>
     <a href="https://pola.rs/"><img alt="Polars" src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=flat"></a>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat"></a>
   </div>
