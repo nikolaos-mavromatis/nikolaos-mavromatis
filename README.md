@@ -29,11 +29,13 @@ Also, follow my progress
     <a href="https://docs.pola.rs/"><img alt="Polars" src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=flat"></a>
     <a href="https://numpy.org/doc/stable/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat"></a>
   </div>
+  <div>
+    <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat"></a>
+  </div>
   <div class="visualization">
     <a href="https://plotly.com/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat"></a>
     <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=style-flat&logo=Matplotlib&logoColor=black"></a>
-    <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat"></a>
-  </div>
+    <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat" alt="Tableau Badge"></div>
   <div>
     <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat"></a>
     <a href="https://getdbt.com/"><img  alt="dbt Badge" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=flat"></a>
