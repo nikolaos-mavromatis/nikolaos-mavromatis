@@ -45,7 +45,9 @@ Also, follow my progress
 </div>
 
 - 🌱 I’m currently learning ...
+
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
+![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat)
 
 <!--
 **nikolaos-mavromatis/nikolaos-mavromatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
