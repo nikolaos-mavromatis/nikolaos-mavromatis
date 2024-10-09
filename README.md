@@ -44,7 +44,9 @@ Also, follow my progress
   </div>
 </div>
 
-- 🌱 I’m currently learning ...
+---
+
+## 🌱 I’m currently learning ...
 
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat)
