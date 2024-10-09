@@ -43,7 +43,7 @@ Also, follow my progress
     <a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat" alt="Streamlit Badge"></a>
   </div>
 </div>
-![Streamlit Badge]()
+
 <!--
 **nikolaos-mavromatis/nikolaos-mavromatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
