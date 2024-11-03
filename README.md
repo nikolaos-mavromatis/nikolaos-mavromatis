@@ -43,10 +43,9 @@ Also, follow my progress
     <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat"></a>
     <a href="https://docs.pytest.org/en/stable/"><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat" alt="Pytest Badge"></a>
     <a href="https://docs.streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat" alt="Streamlit Badge"></a>
+    <a href="https://docs.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge"></a>
   </div>
 </div>
-
----
 
 ## 🌱 I’m currently learning ...
 
