@@ -38,7 +38,6 @@ Also, follow my progress
 
 ### Deployment
 ![AWS Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
-![dbt Badge](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=flat)
 ![MLFlow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat)
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
 ![Pytest Badge](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat)
